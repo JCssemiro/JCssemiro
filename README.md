@@ -1,10 +1,12 @@
-# 👋 Olá, eu sou o Juan!
+# Olá, eu sou o Juan!
 
 Sou um **desenvolvedor fullstack** comprometido com qualidade, evolução contínua e entrega de resultados. Tenho facilidade em aprender novas tecnologias, aplico pensamento analítico para resolver problemas e atuo de forma proativa em cada projeto. Meu foco é transformar desafios em soluções eficientes, escaláveis e com ótima experiência para o usuário.
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancassemiro1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancassemiro/)
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 ### **Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
